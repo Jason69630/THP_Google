@@ -1,0 +1,16 @@
+header
+{
+	color:#444;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-content: space-around;
+}
+
+footer
+{
+	color:#444;
+	display: flex;
+	flex-direction: row;
+}
+
